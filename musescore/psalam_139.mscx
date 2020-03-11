@@ -525,7 +525,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -571,7 +571,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -652,7 +652,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -792,6 +792,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>la</text>
               </Lyrics>
             <Note>
@@ -802,7 +803,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>znaš</text>
+              <text>znaš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -956,7 +957,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be</text>
+              <text>be.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -1086,7 +1087,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -1132,7 +1133,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -1213,7 +1214,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -1353,6 +1354,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>la</text>
               </Lyrics>
             <Note>
@@ -1363,7 +1365,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>znaš</text>
+              <text>znaš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -1518,7 +1520,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be</text>
+              <text>be.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -1645,6 +1647,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>dna</text>
               </Lyrics>
             <Note>
@@ -1655,7 +1658,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>sam</text>
+              <text>sam,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -1732,7 +1735,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>diš</text>
+              <text>diš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -1815,6 +1818,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>bro</text>
               </Lyrics>
             <Note>
@@ -1839,7 +1843,7 @@
             <Lyrics>
               <ticks>960</ticks>
               <ticks_f>1/2</ticks_f>
-              <text>znaš</text>
+              <text>znaš.</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -2009,7 +2013,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>sla</text>
+              <text>sla,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -2221,7 +2225,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>sad</text>
+              <text>sad.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -2454,7 +2458,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text>se</text>
+              <text>se,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -2566,6 +2570,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>da</text>
               </Lyrics>
             <Note>
@@ -2587,7 +2592,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>strah</text>
+              <text>strah.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -2603,7 +2608,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>tvo</text>
+              <text>Tvo</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -2614,6 +2619,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>je</text>
               </Lyrics>
             <Note>
@@ -2636,7 +2642,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Svje</text>
+              <text>svje</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -2878,6 +2884,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>o</text>
               </Lyrics>
             <Note>
@@ -2899,7 +2906,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>dan</text>
+              <text>dan.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -3668,7 +3675,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>o</text>
+              <text>o.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -3855,7 +3862,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -3896,7 +3903,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -3975,7 +3982,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -4167,7 +4174,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -4210,7 +4217,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -4285,7 +4292,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -4417,6 +4424,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>la</text>
               </Lyrics>
             <Note>
@@ -4427,7 +4435,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>znaš</text>
+              <text>znaš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -4569,7 +4577,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be</text>
+              <text>be.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -4684,6 +4692,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>dna</text>
               </Lyrics>
             <Note>
@@ -4694,7 +4703,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>sam</text>
+              <text>sam,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -4768,7 +4777,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>diš</text>
+              <text>diš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -4851,6 +4860,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>bro</text>
               </Lyrics>
             <Note>
@@ -4868,7 +4878,7 @@
             <Lyrics>
               <ticks>960</ticks>
               <ticks_f>1/2</ticks_f>
-              <text>znaš</text>
+              <text>znaš.</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -5027,7 +5037,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>sla</text>
+              <text>sla,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -5232,7 +5242,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>sad</text>
+              <text>sad.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -5339,7 +5349,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Svje</text>
+              <text>svje</text>
               </Lyrics>
             <Note>
               <pitch>74</pitch>
@@ -5546,6 +5556,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>o</text>
               </Lyrics>
             <Note>
@@ -5561,7 +5572,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>dan</text>
+              <text>dan.</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -6281,7 +6292,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>o</text>
+              <text>o.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -6452,7 +6463,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -6496,7 +6507,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -6546,7 +6557,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -6671,7 +6682,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -6714,7 +6725,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>67</pitch>
@@ -6789,7 +6800,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -6921,6 +6932,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>la</text>
               </Lyrics>
             <Note>
@@ -6931,7 +6943,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>znaš</text>
+              <text>znaš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -7076,7 +7088,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be</text>
+              <text>be.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -7197,7 +7209,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -7240,7 +7252,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -7315,7 +7327,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -7420,6 +7432,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>la</text>
               </Lyrics>
             <Note>
@@ -7430,7 +7443,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>znaš</text>
+              <text>znaš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -7572,7 +7585,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be</text>
+              <text>be.</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -7687,6 +7700,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>dna</text>
               </Lyrics>
             <Note>
@@ -7697,7 +7711,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>sam</text>
+              <text>sam,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -7771,7 +7785,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>diš</text>
+              <text>diš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -7854,6 +7868,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/8</ticks_f>
               <text>bro</text>
               </Lyrics>
             <Note>
@@ -7870,7 +7885,7 @@
             <Lyrics>
               <ticks>960</ticks>
               <ticks_f>1/2</ticks_f>
-              <text>znaš</text>
+              <text>znaš.</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -8013,7 +8028,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>sla</text>
+              <text>sla,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -8182,7 +8197,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>sad</text>
+              <text>sad.</text>
               </Lyrics>
             <Spanner type="Slur">
               <Slur>
@@ -8289,7 +8304,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Svje</text>
+              <text>svje</text>
               </Lyrics>
             <Note>
               <pitch>69</pitch>
@@ -8468,6 +8483,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>o</text>
               </Lyrics>
             <Note>
@@ -8483,7 +8499,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>dan</text>
+              <text>dan.</text>
               </Lyrics>
             <Note>
               <pitch>66</pitch>
@@ -9158,7 +9174,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>o</text>
+              <text>o.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -9329,7 +9345,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -9370,7 +9386,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -9442,7 +9458,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -9571,7 +9587,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -9614,7 +9630,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>59</pitch>
@@ -9689,7 +9705,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -9821,6 +9837,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>la</text>
               </Lyrics>
             <Note>
@@ -9831,7 +9848,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>znaš</text>
+              <text>znaš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -9976,7 +9993,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be</text>
+              <text>be.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -10097,7 +10114,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -10140,7 +10157,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>62</pitch>
@@ -10240,7 +10257,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>61</pitch>
@@ -10345,6 +10362,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>la</text>
               </Lyrics>
             <Note>
@@ -10355,7 +10373,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>znaš</text>
+              <text>znaš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -10527,7 +10545,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be</text>
+              <text>be.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -10700,7 +10718,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>sad</text>
+              <text>sad.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -10920,7 +10938,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text>se</text>
+              <text>se,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -11029,6 +11047,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>da</text>
               </Lyrics>
             <Note>
@@ -11044,7 +11063,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>strah</text>
+              <text>strah.</text>
               </Lyrics>
             <Note>
               <pitch>54</pitch>
@@ -11060,7 +11079,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>tvo</text>
+              <text>Tvo</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -11071,6 +11090,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>je</text>
               </Lyrics>
             <Note>
@@ -11088,7 +11108,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Svje</text>
+              <text>svje</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -11329,6 +11349,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>o</text>
               </Lyrics>
             <Note>
@@ -11345,7 +11366,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>dan</text>
+              <text>dan.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -11991,7 +12012,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>o</text>
+              <text>o.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -12159,7 +12180,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -12200,7 +12221,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <Accidental>
@@ -12279,7 +12300,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -12473,7 +12494,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -12516,7 +12537,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>59</pitch>
@@ -12616,7 +12637,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -12721,6 +12742,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>la</text>
               </Lyrics>
             <Note>
@@ -12731,7 +12753,7 @@
           <Chord>
             <durationType>16th</durationType>
             <Lyrics>
-              <text>znaš</text>
+              <text>znaš,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -12901,7 +12923,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>be</text>
+              <text>be.</text>
               </Lyrics>
             <Note>
               <pitch>50</pitch>
@@ -13074,7 +13096,7 @@
           <Chord>
             <durationType>eighth</durationType>
             <Lyrics>
-              <text>sad</text>
+              <text>sad.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -13294,7 +13316,7 @@
           <Chord>
             <durationType>half</durationType>
             <Lyrics>
-              <text>se</text>
+              <text>se,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -13403,6 +13425,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>da</text>
               </Lyrics>
             <Note>
@@ -13418,7 +13441,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>strah</text>
+              <text>strah.</text>
               </Lyrics>
             <Note>
               <pitch>54</pitch>
@@ -13434,7 +13457,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>tvo</text>
+              <text>Tvo</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -13445,6 +13468,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>je</text>
               </Lyrics>
             <Note>
@@ -13462,7 +13486,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Svje</text>
+              <text>svje</text>
               </Lyrics>
             <Note>
               <pitch>57</pitch>
@@ -13697,6 +13721,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
+              <ticks_f>0/16</ticks_f>
               <text>o</text>
               </Lyrics>
             <Note>
@@ -13712,7 +13737,7 @@
             <dots>1</dots>
             <durationType>half</durationType>
             <Lyrics>
-              <text>dan</text>
+              <text>dan.</text>
               </Lyrics>
             <Note>
               <pitch>54</pitch>
@@ -14375,7 +14400,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>o</text>
+              <text>o.</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -14568,7 +14593,7 @@
             <durationType>16th</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>češ</text>
+              <text>češ,</text>
               </Lyrics>
             <Note>
               <Spanner type="Tie">
@@ -14612,7 +14637,7 @@
             <durationType>eighth</durationType>
             <Lyrics>
               <syllabic>begin</syllabic>
-              <text>Do</text>
+              <text>do</text>
               </Lyrics>
             <Note>
               <pitch>52</pitch>
@@ -14662,7 +14687,7 @@
             <durationType>half</durationType>
             <Lyrics>
               <syllabic>end</syllabic>
-              <text>ješ</text>
+              <text>ješ.</text>
               </Lyrics>
             <Note>
               <pitch>50</pitch>

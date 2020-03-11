@@ -1,0 +1,2 @@
+- treba videt kaj s tekstom koji je u drugo vrijeme
+- na kraju \bar "|."
